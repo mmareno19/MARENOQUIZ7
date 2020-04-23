@@ -1,0 +1,16 @@
+var stadium = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04789686203003,
+          35.9069535873246
+        ]
+      }
+    }
+  ]
+}
